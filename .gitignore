@@ -1,0 +1,16 @@
+# PyInstaller & Build artifacts
+build/
+dist/
+installer/
+*.spec
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# User local config / logs
+.nflscore/
+*.log
